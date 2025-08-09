@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive README for your GitHub organization, designed to give examiners an overview of your SEP4 project repositories and their roles:
-
----
 
 # Greenhouse SEP4 Project GitHub Organization
 
