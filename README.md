@@ -91,5 +91,3 @@ A Python-based microservice responsible for training and inference of ML models 
 This organization exemplifies a full-stack IoT system with integrated DevOps workflows, demonstrating how embedded systems, cloud infrastructure, machine learning, and web interfaces work together in a modern, scalable, and maintainable architecture. Each repository is designed for modularity, testability, and reproducibility, ensuring a reliable foundation for both development and evaluation.
 
 ---
-
-If you'd like, I can prepare a more concise or detailed version tailored for specific examiners or presentation needs.
